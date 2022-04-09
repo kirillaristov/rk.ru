@@ -13,7 +13,7 @@
         {{ partial "nav.html" . }}
 
         <div id="content">
-            <div class="container">
+            <div class="container">			
 
                 <div class="col-sm-6 col-sm-offset-3" id="error-page">
 
@@ -24,6 +24,9 @@
 
                         <p class="buttons"><a href="{{ "/" | relURL }}" class="btn btn-template-main"><i class="fas fa-home"></i> {{ i18n "404NavHome" | markdownify }}</a>
                         </p>
+						
+					{{ .Content }}	
+						
                     </div>
 
 
