@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="{{ .Site.LanguageCode }}">
+
+<head>
+	{{ partial "headers.html" . }}
+</head>
+
+{{ $page_id := index (last 1 (split (delimit (split .RelPermalink "/") "," "") ",")) 0 -}}
+
+<body{{if .IsHome}} id="home"{{else if or (.IsPage) (.IsSection)}} id="page_{{ $page_id }}"{{end}} class="lang_{{ .Lang }} type_{{ .Page.Type }} kind_{{ .Page.Kind }}">
+
+    <div id="all">
+	
+		{{- if .IsHome }}
+		
+			{{ block "main" . }}{{ end }}
+		
+		{{ else }}
+
+			{{ partial "nav.html" . }}
+
+			{{ partial "breadcrumbs.html" . }}
+
+			<div id="content">
+				<div class="container">
+					<div class="row">
+						{{ block "main" . }}{{ end }}			
+					</div>	
+				</div>
+			</div>
+			
+		{{ end }}
+		
+		
+		
+		{{ partial "footer.html" . }}
+		
+	</div>
+
+	{{ partial "scripts.html" . }}
+		
+</body>
+</html>
