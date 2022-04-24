@@ -26,335 +26,156 @@ disableKinds = "404"
 [menu]
 
 
-# Main menu
+# ==== ВИЗИТ ====
 [[menu.main]]
-    name       = "Home"
+    name       = "Визит"
     identifier = "menu.home"
     url        = "/"
     weight     = 1
-
 [[menu.main]]
-    name       = "Option 1: Default Page"
+    name       = "Записаться на прием"
     url        = "/"
     weight     = 1
     parent     = "menu.home"
-
 [[menu.main]]
-    name       = "Option 2: Application"
+    name       = "Подготовка к визиту"
     url        = "/"
     weight     = 2
     parent     = "menu.home"
-
 [[menu.main]]
-    name       = "Option 3: Startup"
+    name       = "Стоимость услуг"
     url        = "/"
     weight     = 3
     parent     = "menu.home"
-
 [[menu.main]]
-    name       = "Option 4: Agency"
+    name       = "Способы оплаты"
     url        = "/"
     weight     = 4
     parent     = "menu.home"
 
-[[menu.main]]
-    name       = "Option 5: Portfolio"
-    url        = "/"
-    weight     = 5
-    parent     = "menu.home"
 
+
+# ==== ВРАЧИ, АНАЛИЗЫ, УЗИ ====
 [[menu.main]]
-    name       = "Features"
-    identifier = "menu.features"
+    name       = "Врачи"
+    identifier = "menu.doctors"
     url        = "/img/template-easy-customize.png"
-    weight     = 3
-
+    weight     = 2
+	
 [[menu.main]]
-    name       = "Shortcodes"
-    identifier = "section.shortcodes"
+    name       = "Специалисты"
+    identifier = "section.doctors"
     url        = ""
-    weight     = 1
-    parent     = "menu.features"
+    weight     = 2
+    parent     = "menu.doctors"
     post       = 1
-
 [[menu.main]]
-    name       = "Header variations"
-    identifier = "section.headervariations"
-    url        = ""
-    weight     = 2
-    parent     = "menu.features"
-    post       = 2
-
-[[menu.main]]
-    name       = "Accordions"
+    name       = "Педиатр"
     url        = ""
     weight     = 1
-    parent     = "section.shortcodes"
-
+    parent     = "section.doctors"
 [[menu.main]]
-    name       = "Alerts"
+    name       = "Кардиолог"
     url        = ""
     weight     = 2
-    parent     = "section.shortcodes"
-
+    parent     = "section.doctors"
 [[menu.main]]
-    name       = "Buttons"
+    name       = "ЛОР"
     url        = ""
     weight     = 3
-    parent     = "section.shortcodes"
-
+    parent     = "section.doctors"
 [[menu.main]]
-    name       = "Content Boxes"
+    name       = "Гинеколог"
     url        = ""
     weight     = 4
-    parent     = "section.shortcodes"
-
+    parent     = "section.doctors"
 [[menu.main]]
-    name       = "Horizontal Blocks"
+    name       = "Эндокринолог"
     url        = ""
     weight     = 5
-    parent     = "section.shortcodes"
+    parent     = "section.doctors"
 
-[[menu.main]]
-    name       = "Pagination"
-    url        = ""
-    weight     = 6
-    parent     = "section.shortcodes"
 
-[[menu.main]]
-    name       = "Tabs"
-    url        = ""
-    weight     = 7
-    parent     = "section.shortcodes"
 
-[[menu.main]]
-    name       = "Typography"
-    url        = ""
-    weight     = 8
-    parent     = "section.shortcodes"
 
+# ==== Анализы и УЗИ ====
 [[menu.main]]
-    name       = "Default Sticky Header"
-    url        = ""
-    weight     = 1
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "No Sticky Header"
-    url        = ""
-    weight     = 2
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Light Header"
-    url        = ""
-    weight     = 3
-    parent     = "section.headervariations"
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "menu.portfolio"
+    name       = "Анализы и УЗИ"
+    identifier = "menu.services"
     url        = "/img/template-homepage.png"
     weight     = 3
-
 [[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.portfolio"
-    url        = ""
+    name       = "Анализы и УЗИ"
+    identifier = "section.services"
+    url        = "/uslugi/"
     weight     = 1
-    parent     = "menu.portfolio"
+    parent     = "menu.services"
     post       = 1
-
 [[menu.main]]
-    name       = "2 Columns"
-    url        = ""
+    name       = "Анализы"
+    url        = "/analizy/"
     weight     = 1
-    parent     = "section.portfolio"
-
+    parent     = "section.services"
 [[menu.main]]
-    name       = "2 Columns With Negative Space"
-    url        = ""
+    name       = "УЗИ"
+    url        = "/uzi/"
     weight     = 2
-    parent     = "section.portfolio"
+    parent     = "section.services"
 
-[[menu.main]]
-    name       = "3 Columns"
-    url        = ""
-    weight     = 3
-    parent     = "section.portfolio"
 
-[[menu.main]]
-    name       = "3 Columns With Negative Space"
-    url        = ""
-    weight     = 4
-    parent     = "section.portfolio"
 
+# ==== О НАС ====
 [[menu.main]]
-    name       = "4 Columns"
-    url        = ""
-    weight     = 5
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "4 Columns With Negative Space"
-    url        = ""
-    weight     = 6
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail"
-    url        = ""
-    weight     = 7
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "Portfolio - detail 2"
-    url        = ""
-    weight     = 8
-    parent     = "section.portfolio"
-
-[[menu.main]]
-    name       = "About"
+    name       = "О Нас"
     identifier = "section.about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.portfolio"
-    post       = 2
-
-[[menu.main]]
-    name       = "About Us"
-    url        = ""
-    weight     = 1
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Our Team"
-    url        = ""
-    weight     = 2
-    parent     = "section.about"
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.portfolio"
-    post       = 2
-
-[[menu.main]]
-    name       = "Packages"
-    url        = ""
-    weight     = 1
-    parent     = "section.marketing"
-
-[[menu.main]]
-    name       = "All Pages"
-    identifier = "menu.allpages"
-    url        = ""
+    url        = "/o-nas/"
     weight     = 4
-
-[[menu.main]]
-    name       = "Home"
-    identifier = "section.ap-home"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "About"
-    identifier = "section.ap-about"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Marketing"
-    identifier = "section.ap-marketing"
-    url        = ""
-    weight     = 3
-    parent     = "menu.allpages"
-    post       = 1
-
-[[menu.main]]
-    name       = "Portfolio"
-    identifier = "section.ap-portfolio"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
     post       = 2
 
 [[menu.main]]
-    name       = "User Pages"
-    identifier = "section.ap-userpages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 2
-
-[[menu.main]]
-    name       = "Shop"
-    identifier = "section.ap-shop"
-    url        = ""
+    name       = "О Нас"
+    url        = "/o-nas/"
     weight     = 1
-    parent     = "menu.allpages"
-    post       = 3
+    parent     = "section.about"
 
 [[menu.main]]
-    name       = "Shop - Order Process"
-    identifier = "section.ap-shoporderprocess"
-    url        = ""
+    name       = "Контакты"
+    url        = "/kontakty/"
     weight     = 2
-    parent     = "menu.allpages"
-    post       = 3
-
+    parent     = "section.about"
 [[menu.main]]
-    name       = "Contact"
-    identifier = "section.ap-contact"
-    url        = ""
-    weight     = 1
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Pages"
-    identifier = "section.ap-pages"
-    url        = ""
-    weight     = 2
-    parent     = "menu.allpages"
-    post       = 4
-
-[[menu.main]]
-    name       = "Blog"
-    identifier = "section.ap-blog"
-    url        = "/blog/"
+    name       = "График работы"
+    url        = "/grafik-raboty/"
     weight     = 3
-    parent     = "menu.allpages"
-    post       = 4
+    parent     = "section.about"
+[[menu.main]]
+    name       = "Политика конфиденциальности"
+    url        = "/politika-konfidentsialnosti/"
+    weight     = 4
+    parent     = "section.about"
+
+
+
+
+
+
 
 [[menu.main]]
-    name       = "Blog Listing Big"
-    url        = "/blog/"
-    weight     = 1
-    parent     = "section.ap-blog"
-
-[[menu.main]]
-    name       = "Blog"
+    name       = "Новости"
     identifier = "menu.blog"
-    url        = "/blog/"
+    url        = "/novosti/"
     weight     = 5
 
 [[menu.main]]
-    name       = "FAQ"
+    name       = "Вопросы и ответы"
     identifier = "menu.faq"
-    url        = "/faq/"
+    url        = "/voprosy-i-otvety/"
     weight     = 6
 
 [[menu.main]]
-    identifier = "contact"
-    name       = "Contact"
-    url        = "/contact/"
+	name       = "Контакты"
+    identifier = "menu.contact"
+    url        = "/kontakty/"
     weight     = 7
 
 
