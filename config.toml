@@ -30,28 +30,34 @@ disableKinds = "404"
 [[menu.main]]
     name       = "Визит"
     identifier = "menu.home"
-    url        = "/"
+    url        = "/img/template-easy-customize.png"
     weight     = 1
+[[menu.main]]
+    name       = "Визит"
+    identifier = "section.home"
+    url        = ""
+    parent     = "menu.home"
+    post       = 1
 [[menu.main]]
     name       = "Записаться на прием"
-    url        = "/"
+    url        = "/zapisatsya-na-priyem/"
     weight     = 1
-    parent     = "menu.home"
+    parent     = "section.home"
 [[menu.main]]
     name       = "Подготовка к визиту"
-    url        = "/"
+    url        = "/podgotovka-k-vizitu/"
     weight     = 2
-    parent     = "menu.home"
+    parent     = "section.home"
 [[menu.main]]
     name       = "Стоимость услуг"
-    url        = "/"
+    url        = "/stoimost-uslug/"
     weight     = 3
-    parent     = "menu.home"
+    parent     = "section.home"
 [[menu.main]]
     name       = "Способы оплаты"
-    url        = "/"
+    url        = "/sposoby-oplaty/"
     weight     = 4
-    parent     = "menu.home"
+    parent     = "section.home"
 
 
 
@@ -60,38 +66,37 @@ disableKinds = "404"
     name       = "Врачи"
     identifier = "menu.doctors"
     url        = "/img/template-easy-customize.png"
-    weight     = 2
-	
+    weight     = 2	
 [[menu.main]]
-    name       = "Специалисты"
+    name       = "Врачи"
     identifier = "section.doctors"
-    url        = ""
+    url        = "/vrachi/"
     weight     = 2
     parent     = "menu.doctors"
     post       = 1
 [[menu.main]]
     name       = "Педиатр"
-    url        = ""
+    url        = "/vrachi/pediatr/"
     weight     = 1
     parent     = "section.doctors"
 [[menu.main]]
     name       = "Кардиолог"
-    url        = ""
+    url        = "/vrachi/kardiolog/"
     weight     = 2
     parent     = "section.doctors"
 [[menu.main]]
     name       = "ЛОР"
-    url        = ""
+    url        = "/vrachi/lor/"
     weight     = 3
     parent     = "section.doctors"
 [[menu.main]]
     name       = "Гинеколог"
-    url        = ""
+    url        = "/vrachi/ginekolog/"
     weight     = 4
     parent     = "section.doctors"
 [[menu.main]]
     name       = "Эндокринолог"
-    url        = ""
+    url        = "/vrachi/endokrinolog"
     weight     = 5
     parent     = "section.doctors"
 
@@ -113,12 +118,12 @@ disableKinds = "404"
     post       = 1
 [[menu.main]]
     name       = "Анализы"
-    url        = "/analizy/"
+    url        = "/uslugi/analizy/"
     weight     = 1
     parent     = "section.services"
 [[menu.main]]
     name       = "УЗИ"
-    url        = "/uzi/"
+    url        = "/uslugi/uzi/"
     weight     = 2
     parent     = "section.services"
 
@@ -127,11 +132,16 @@ disableKinds = "404"
 # ==== О НАС ====
 [[menu.main]]
     name       = "О Нас"
+    identifier = "menu.about"
+    url        = "/img/template-homepage.png"
+    weight     = 4
+[[menu.main]]
+    name       = "О Нас"
     identifier = "section.about"
     url        = "/o-nas/"
-    weight     = 4
-    post       = 2
-
+    weight     = 1
+    parent     = "menu.about"
+    post       = 1
 [[menu.main]]
     name       = "О Нас"
     url        = "/o-nas/"
@@ -153,9 +163,6 @@ disableKinds = "404"
     url        = "/politika-konfidentsialnosti/"
     weight     = 4
     parent     = "section.about"
-
-
-
 
 
 
@@ -267,8 +274,8 @@ disableKinds = "404"
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas.</p>"
-    copyright = "Copyright (c) 2015 - 2016, YourCompany; all rights reserved."
+    about_us = "<p>Мы заботимся о вас и ваших семьях.</p><p>Мы предлагаем диагностику с использованием современных методов визуализации, генетические и биохимические тесты с целью исключения активных заболеваний или выявления скрытой патологии для того, что бы исключить возможность нанесения вреда организму. Мы предлагаем лечение, основанное на доказательных данных в соответствии с академическими стандартами и с соблюдением терапевтических руководств. Наш подход является комплексным. Для профилактики и лечения заболеваний мы всегда рассматриваем человека в целом - с физической, психологической, социальной и экологической точек зрения. Применяя комплексный подход, мы твердо убеждены, что самочувствие в случае болезни зависит не только от того, что происходит с нашим организмом в физическом плане, но также находится в тесной взаимосвязи с психологическим, эмоциональным и социальным состоянием индивидуума.</p>"
+    copyright = "© 2012-2022, Медицинский центр «Р-КЛИНИК», пос. Деденево Московской области<br>Информация, размещенная на сайте, не является публичной офертой. Актуальную информацию о ценах, акциях и предложениях, пожалуйста, уточняйте у администраторов клиники.<br>Лицензия № ЛО-50-01-010700 от 14 марта 2020 г."
 
     # Format dates with Go's time formatting
     date_format = "January 2, 2006"
@@ -276,18 +283,15 @@ disableKinds = "404"
     dropdown_mouse_over = false
 
     disabled_logo = false
-    logo_text = "Universal"
+    logo_text = "R-Klinik"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    contact_url = "/contact"
-    address = """<p class="text-uppercase"><strong>Universal Ltd.</strong>
-        <br>13/25 New Avenue
-        <br>Newtown upon River
-        <br>45Y 73J
-        <br>England
-        <br>
-        <strong>Great Britain</strong>
+    contact_url = "/kontakty/"
+    address = """<p class="text-uppercase"><strong>Медицинский центр «Р-Клиник».</strong>
+        <br>Московское шоссе, д. 13, стр. 2,
+		<br>Пос. Деденево, Дмитровский район,
+        <br>Московская область, 141850, <strong>Россия</strong>.
       </p>
       """
 
@@ -297,8 +301,18 @@ disableKinds = "404"
 # Enable or disable top bar with social icons
 [params.topbar]
     enable = true
-    text = """<p class="hidden-sm hidden-xs">Contact us on +420 777 555 333 or hello@universal.com.</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+420 777 555 333" data-animate-hover="pulse"><i class="fas fa-phone"></i></a>
+    text = """<p class="hidden-sm hidden-xs">
+		<a href="tel:+74962223757" data-animate-hover="pulse">
+		<i class="fas fa-phone">
+			+7 (496) 222-37-57
+		</i>
+		</a>.
+		Деденево, Московское ш., д. 13, стр. 2.
+		<a href="mailto:ask@r-klinik.ru">
+			ask@r-klinik.ru
+		</a>
+		</p>
+      <p class="hidden-md hidden-lg"><a href="tel:+74962223757" data-animate-hover="pulse"><i class="fas fa-phone">+7 (496) 222-37-57</i></a>
       <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
       </p>
       """
@@ -368,7 +382,7 @@ disableKinds = "404"
     hide_summary = false
 
 [params.footer.recent_posts]
-    enable = true
+    enable = false
 
 [taxonomies]
   category = "categories"
