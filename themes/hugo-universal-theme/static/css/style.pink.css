@@ -2624,6 +2624,7 @@ fieldset[disabled] .btn-template-primary.active {
 }
 #copyright p {
   margin: 0;
+  text-align: center;
 }
 @media (max-width: 991px) {
   #copyright p {
