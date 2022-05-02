@@ -190,24 +190,12 @@ disableKinds = "404"
 
 [[menu.topbar]]
     weight = 1
-    name = "Phone"
-    url = "tel:+74962223757"
-    pre = "<i class='fas fa-2x fa-phone'></i>"
-
-[[menu.topbar]]
-    weight = 2
-    name = "Email"
-    url = "mailto:ask@r-klinik.ru"
-    pre = "<i class='fas fa-2x fa-envelope'></i>"
-
-[[menu.topbar]]
-    weight = 3
     name = "VKontakte"
     url = "https://vk.com/club139511670"
     pre = "<i class='fab fa-2x fa-vk'></i>"
 
 [[menu.topbar]]
-    weight = 4
+    weight = 2
     name = "Instagram"
     url = "https://www.instagram.com/r_klinik_medcentr/"
     pre = "<i class='fab fa-2x fa-instagram'></i>"
@@ -307,7 +295,7 @@ disableKinds = "404"
 		<a href="/contacts/">Деденево, Московское ш., д. 13, стр. 2</a>.
 		<a href="mailto:info@r-klinik.ru">info@r-klinik.ru</a>
 		</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+74962223757">+7 496 222-37-57</a>
+      <p class="hidden-md hidden-lg"><a href="tel:+74962223757">+7 496 222-37-57</a><br>
       <a href="mailto:info@r-klinik.ru">info@r-klinik.ru</a>
       </p>
       """
