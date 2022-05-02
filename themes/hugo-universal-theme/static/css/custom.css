@@ -25,7 +25,7 @@ body {line-height:1.6;}
 #top p {font-size:15px;}
 
 #footer {color:#4d4b4b;background-color:#e4edee;}
-#copyright {color:#bef5fb;background-color:#4bbfcc;font-size:15px;line-height:1.6;}
+#copyright {padding:30px 0;color:#bef5fb;background-color:#4bbfcc;font-size:13px;line-height:1.6;}
 #copyright p:not(:last-child) {margin-bottom:17px;}
 
 .navbar-brand {margin-top:5px;}
