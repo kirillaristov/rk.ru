@@ -16,7 +16,7 @@
 
 #top .social {letter-spacing:5px;}
 
-#top {line-height:31px;background-color:#e4edee;}
+#top {background-color:#e4edee;}
 
 #top a:not(:last-child) {margin-right:15px;}
 
@@ -29,5 +29,5 @@
 
 .fa-2x {font-size:25px;line-height:31px;}
 
-.col-xs-5 {width:auto;}
+.col-xs-5 {width:auto;line-height:31px;}
 .col-xs-7 {width:130px;float:right;}
