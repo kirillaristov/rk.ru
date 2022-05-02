@@ -1,10 +1,10 @@
 baseurl = "https://rk2022.netlify.app/"
 
 
-title = "Universal"
+title = "Медицинский центр «Р-КЛИНИК» пос. Деденево"
 theme = "hugo-universal-theme"
 
-languageCode = "en-us"
+languageCode = "ru-ru"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "ru"
 # Enable comments by entering your Disqus shortname
@@ -215,10 +215,10 @@ disableKinds = "404"
 
 [params]
     viewMorePostLink = "/blog/"
-    author = "DevCows"
-    defaultKeywords = ["devcows", "hugo", "go"]
+    author = "Р-КЛИНИК"
+    defaultKeywords = ["р-клиник", "клиника", "анализы", "врачи", "деденево"]
     mainSections = ["blog"]
-    defaultDescription = "Site template made by Devcows using Hugo"
+    defaultDescription = "Медицинский центр в поселке Деденево Дмитровского района Московской области"
 
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
@@ -269,7 +269,7 @@ disableKinds = "404"
     enableRecaptchaInContactForm = false
     googleRecaptchaKey = "site_key_for_google_recaptcha"
 
-    about_us = "<p>Мы заботимся о вас и ваших семьях.</p><p>Мы предлагаем диагностику с использованием современных методов визуализации, генетические и биохимические тесты с целью исключения активных заболеваний или выявления скрытой патологии для того, что бы исключить возможность нанесения вреда организму. Мы предлагаем лечение, основанное на доказательных данных в соответствии с академическими стандартами и с соблюдением терапевтических руководств. Наш подход является комплексным. Для профилактики и лечения заболеваний мы всегда рассматриваем человека в целом - с физической, психологической, социальной и экологической точек зрения. Применяя комплексный подход, мы твердо убеждены, что самочувствие в случае болезни зависит не только от того, что происходит с нашим организмом в физическом плане, но также находится в тесной взаимосвязи с психологическим, эмоциональным и социальным состоянием индивидуума.</p>"
+    about_us = "<p><strong class='text-uppercase'>Мы заботимся о вас и ваших семьях.</strong></p><p>Мы предлагаем диагностику с использованием современных методов визуализации, генетические и биохимические тесты с целью исключения активных заболеваний или выявления скрытой патологии для того, что бы исключить возможность нанесения вреда организму. Мы предлагаем лечение, основанное на доказательных данных в соответствии с академическими стандартами и с соблюдением терапевтических руководств. Наш подход является комплексным. Для профилактики и лечения заболеваний мы всегда рассматриваем человека в целом - с физической, психологической, социальной и экологической точек зрения. Применяя комплексный подход, мы твердо убеждены, что самочувствие в случае болезни зависит не только от того, что происходит с нашим организмом в физическом плане, но также находится в тесной взаимосвязи с психологическим, эмоциональным и социальным состоянием индивидуума.</p>"
     copyright = "© 2020-2022, Медицинский центр «Р-КЛИНИК», пос. Деденево Московской области.<br>+7 (496) 222-37-57<br>Информация, размещенная на сайте, не является публичной офертой. Актуальную информацию о ценах, акциях и предложениях, пожалуйста, уточняйте у администраторов клиники.<br>Лицензия № ЛО-50-01-010700 от 14 марта 2020 г."
 
     # Format dates with Go's time formatting
@@ -303,18 +303,12 @@ disableKinds = "404"
 [params.topbar]
     enable = true
     text = """<p class="hidden-sm hidden-xs">
-		<a href="tel:+74962223757" data-animate-hover="pulse">
-		<i class="fas fa-phone">
-			+7 (496) 222-37-57
-		</i>
-		</a>.
-		Деденево, Московское ш., д. 13, стр. 2.
-		<a href="mailto:ask@r-klinik.ru">
-			ask@r-klinik.ru
-		</a>
+		<a href="tel:+74962223757">+7 496 222-37-57</a>.
+		<a href="/contacts/">Деденево, Московское ш., д. 13, стр. 2</a>.
+		<a href="mailto:info@r-klinik.ru">info@r-klinik.ru</a>
 		</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+74962223757" data-animate-hover="pulse"><i class="fas fa-phone">+7 (496) 222-37-57</i></a>
-      <a href="mailto:hello@universal.com" data-animate-hover="pulse"><i class="fas fa-envelope"></i></a>
+      <p class="hidden-md hidden-lg"><a href="tel:+74962223757">+7 496 222-37-57</a>
+      <a href="mailto:info@r-klinik.ru">info@r-klinik.ru</a>
       </p>
       """
 
@@ -341,7 +335,7 @@ disableKinds = "404"
     # at 'exampleSite/data/carousel'.
     # For more information take a look at the README.
     enable = true
-    auto_play = true
+    auto_play = false
     slide_speed = 2000
     pagination_speed = 1000
 

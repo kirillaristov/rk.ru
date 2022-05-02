@@ -1,0 +1,11 @@
+weight: 2
+title: "Услуги"
+description: >
+  <ul class="list-style-none">
+    <li>Анализы</li>
+    <li>Процедурный кабинет</li>
+    <li>Физитерапия</li>
+    <li>Холтер ЭКГ</li>
+  </ul>
+image: "img/carousel/template-easy-code.png"
+href: "/uslugi/"

@@ -15,3 +15,12 @@
 */
 
 #top .social {letter-spacing:5px;}
+
+#top {line-height:31px;background-color:#e4edee;}
+
+#top a {margin-right:15px;}
+
+#footer {color:#4d4b4b;background-color:#e4edee;}
+#copyright {color:#bef5fb;background-color:#4bbfcc;}
+
+.navbar-brand {margin-top:5px;}
