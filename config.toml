@@ -293,8 +293,7 @@ disableKinds = "404"
     enable = true
     text = """<p class="hidden-sm hidden-xs">
 		<a href="tel:+74962223757">+7 496 222-37-57</a>.
-		<a href="/contacts/">Деденево, Московское ш., д. 13, стр. 2</a>.
-		<a href="mailto:info@r-klinik.ru">info@r-klinik.ru</a>
+		<a href="/contacts/">Деденево, Московское ш., д. 13, стр. 2</a>
 		</p>
       <p class="hidden-md hidden-lg"><a href="tel:+74962223757">+7 496 222-37-57</a>
       </p>
