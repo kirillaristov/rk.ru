@@ -20,6 +20,8 @@
 
 #top a:not(:last-child) {margin-right:15px;}
 
+#top p {font-size:15px;}
+
 #footer {color:#4d4b4b;background-color:#e4edee;}
 #copyright {color:#bef5fb;background-color:#4bbfcc;}
 

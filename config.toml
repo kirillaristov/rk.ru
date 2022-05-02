@@ -295,8 +295,7 @@ disableKinds = "404"
 		<a href="/contacts/">Деденево, Московское ш., д. 13, стр. 2</a>.
 		<a href="mailto:info@r-klinik.ru">info@r-klinik.ru</a>
 		</p>
-      <p class="hidden-md hidden-lg"><a href="tel:+74962223757">+7 496 222-37-57</a><br>
-      <a href="mailto:info@r-klinik.ru">info@r-klinik.ru</a>
+      <p class="hidden-md hidden-lg"><a href="tel:+74962223757">+7 496 222-37-57</a>
       </p>
       """
 
