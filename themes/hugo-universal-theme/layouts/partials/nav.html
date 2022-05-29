@@ -63,7 +63,7 @@
                                 {{ range .Children.ByWeight }}
                                     {{ $column := printf "%s" .Post }}
                                     {{ if eq $column "1" }}
-                                    <h5>{{ .Name }}</h5>
+                                    <h5><a href="{{ .URL }}">{{ .Name }}</a></h5>
                                     {{ if .HasChildren }}
                                     <ul>
                                     {{ range .Children.ByWeight }}

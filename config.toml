@@ -35,27 +35,29 @@ disableKinds = "404"
 [[menu.main]]
     name       = "Визит"
     identifier = "section.home"
-    url        = ""
+    url        = "/visit/"
+	weight	   = 1
     parent     = "menu.home"
     post       = 1
+
 [[menu.main]]
     name       = "Записаться на прием"
-    url        = "/zapisatsya-na-priyem/"
+    url        = "/visit/zapisatsya-na-priyem/"
     weight     = 1
     parent     = "section.home"
 [[menu.main]]
     name       = "Подготовка к визиту"
-    url        = "/podgotovka-k-vizitu/"
+    url        = "/visit/podgotovka-k-vizitu/"
     weight     = 2
     parent     = "section.home"
 [[menu.main]]
     name       = "Стоимость услуг"
-    url        = "/stoimost-uslug/"
+    url        = "/visit/stoimost-uslug/"
     weight     = 3
     parent     = "section.home"
 [[menu.main]]
     name       = "Способы оплаты"
-    url        = "/sposoby-oplaty/"
+    url        = "/visit/sposoby-oplaty/"
     weight     = 4
     parent     = "section.home"
 
@@ -71,9 +73,10 @@ disableKinds = "404"
     name       = "Врачи"
     identifier = "section.doctors"
     url        = "/vrachi/"
-    weight     = 2
+    weight     = 1
     parent     = "menu.doctors"
     post       = 1
+
 [[menu.main]]
     name       = "Педиатр"
     url        = "/vrachi/pediatr/"
@@ -96,7 +99,7 @@ disableKinds = "404"
     parent     = "section.doctors"
 [[menu.main]]
     name       = "Эндокринолог"
-    url        = "/vrachi/endokrinolog"
+    url        = "/vrachi/endokrinolog/"
     weight     = 5
     parent     = "section.doctors"
 
@@ -116,6 +119,7 @@ disableKinds = "404"
     weight     = 1
     parent     = "menu.services"
     post       = 1
+
 [[menu.main]]
     name       = "Анализы"
     url        = "/uslugi/analizy/"
@@ -142,26 +146,21 @@ disableKinds = "404"
     weight     = 1
     parent     = "menu.about"
     post       = 1
-[[menu.main]]
-    name       = "О Нас"
-    url        = "/o-nas/"
-    weight     = 1
-    parent     = "section.about"
 
 [[menu.main]]
     name       = "Контакты"
-    url        = "/kontakty/"
-    weight     = 2
+    url        = "/o-nas/kontakty/"
+    weight     = 1
     parent     = "section.about"
 [[menu.main]]
     name       = "График работы"
-    url        = "/grafik-raboty/"
-    weight     = 3
+    url        = "/o-nas/grafik-raboty/"
+    weight     = 2
     parent     = "section.about"
 [[menu.main]]
     name       = "Политика конфиденциальности"
-    url        = "/politika-konfidentsialnosti/"
-    weight     = 4
+    url        = "/o-nas/politika-konfidentsialnosti/"
+    weight     = 3
     parent     = "section.about"
 
 
@@ -182,7 +181,7 @@ disableKinds = "404"
 [[menu.main]]
 	name       = "Контакты"
     identifier = "menu.contact"
-    url        = "/kontakty/"
+    url        = "/o-nas/kontakty/"
     weight     = 7
 
 
