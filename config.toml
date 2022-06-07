@@ -321,7 +321,7 @@ disableKinds = "404"
     # at 'exampleSite/data/carousel'.
     # For more information take a look at the README.
     enable = true
-    auto_play = false
+    auto_play = true
     slide_speed = 2000
     pagination_speed = 1000
 
