@@ -30,7 +30,7 @@ disableKinds = "404"
 [[menu.main]]
     name       = "Визит"
     identifier = "menu.home"
-    url        = "/img/template-easy-customize.png"
+    url        = "/img/template-o-nas.jpg"
     weight     = 1
 [[menu.main]]
     name       = "Визит"
@@ -67,7 +67,7 @@ disableKinds = "404"
 [[menu.main]]
     name       = "Врачи"
     identifier = "menu.doctors"
-    url        = "/img/template-easy-customize.png"
+    url        = "/img/template-vrachi.jpg"
     weight     = 2	
 [[menu.main]]
     name       = "Врачи"
@@ -110,7 +110,7 @@ disableKinds = "404"
 [[menu.main]]
     name       = "Анализы и УЗИ"
     identifier = "menu.services"
-    url        = "/img/template-homepage.png"
+    url        = "/img/template-uslugi.jpg"
     weight     = 3
 [[menu.main]]
     name       = "Анализы и УЗИ"
@@ -137,7 +137,7 @@ disableKinds = "404"
 [[menu.main]]
     name       = "О Нас"
     identifier = "menu.about"
-    url        = "/img/template-homepage.png"
+    url        = "/img/template-o-nas.jpg"
     weight     = 4
 [[menu.main]]
     name       = "О Нас"
@@ -210,7 +210,7 @@ disableKinds = "404"
     # Social media
     facebook_site = "" # the Facebook handle of your site ('https://www.facebook.com/HANDLE')
     twitter_site = "GoHugoIO" # the Twitter handle of your site (without the '@')
-    default_sharing_image = "img/sharing-default.png"
+    default_sharing_image = "img/sharing-default.jpg"
 
     # Google Maps widget: If `googleMapsApiKey` is not set, no key will be passed to Google (which likely results in a broken map widget).
     enableGoogleMaps = true
