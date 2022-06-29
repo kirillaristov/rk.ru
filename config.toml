@@ -66,43 +66,100 @@ disableKinds = "404"
 # ==== ВРАЧИ, АНАЛИЗЫ, УЗИ ====
 [[menu.main]]
     name       = "Врачи"
-    identifier = "menu.doctors"
+    identifier = "menu.vrachi"
     url        = "/img/template-vrachi.jpg"
     weight     = 2	
 [[menu.main]]
-    name       = "Врачи"
-    identifier = "section.doctors"
+    name       = "Специалисты"
+    identifier = "section.specialisty"
     url        = "/vrachi/"
     weight     = 1
-    parent     = "menu.doctors"
+    parent     = "menu.vrachi"
     post       = 1
 
 [[menu.main]]
     name       = "Педиатр"
     url        = "/vrachi/pediatr/"
     weight     = 1
-    parent     = "section.doctors"
+    parent     = "section.specialisty"
 [[menu.main]]
     name       = "Кардиолог"
     url        = "/vrachi/kardiolog/"
     weight     = 2
-    parent     = "section.doctors"
+    parent     = "section.specialisty"
 [[menu.main]]
     name       = "ЛОР"
     url        = "/vrachi/lor/"
     weight     = 3
-    parent     = "section.doctors"
+    parent     = "section.specialisty"
 [[menu.main]]
     name       = "Гинеколог"
     url        = "/vrachi/ginekolog/"
     weight     = 4
-    parent     = "section.doctors"
+    parent     = "section.specialisty"
 [[menu.main]]
     name       = "Эндокринолог"
     url        = "/vrachi/endokrinolog/"
     weight     = 5
+    parent     = "section.specialisty"
+
+
+
+[[menu.main]]
+    name       = "Врачи"
+    identifier = "section.doctors"
+    url        = "/vrachi/"
+    weight     = 2
+    parent     = "menu.vrachi"
+    post       = 2
+	
+[[menu.main]]
+    name       = "Богомолова Ирина Викторовна"
+    url        = "/vrachi/Bogomolova-Irina-Viktorovna/"
+    weight     = 1
     parent     = "section.doctors"
 
+[[menu.main]]
+    name       = "Борисова Екатерина Евгеньевна"
+    url        = "/vrachi/Borisova-Ekaterina-Evgenevna/"
+    weight     = 2
+    parent     = "section.doctors"
+
+[[menu.main]]
+    name       = "Дорожкина Татьяна Николаевна"
+    url        = "/vrachi/Dorozhkina-Tatyana-Nikolaevna/"
+    weight     = 3
+    parent     = "section.doctors"
+
+[[menu.main]]
+    name       = "Пудова Евгения Владимировна"
+    url        = "/vrachi/Pudova-Evgeniya-Vladimirovna/"
+    weight     = 4
+    parent     = "section.doctors"
+
+[[menu.main]]
+    name       = "Резвый Григорий Борисович"
+    url        = "/vrachi/Rezvii-Grigorii-Borisovich/"
+    weight     = 5
+    parent     = "section.doctors"
+
+[[menu.main]]
+    name       = "Щекотихин Максим Андреевич"
+    url        = "/vrachi/SHekotihin-Maksim-Andreevich/"
+    weight     = 6
+    parent     = "section.doctors"
+
+[[menu.main]]
+    name       = "Яковлева Наталья Владимировна"
+    url        = "/vrachi/YAkovleva-Natalya-Vladimirovna/"
+    weight     = 7
+    parent     = "section.doctors"
+
+[[menu.main]]
+    name       = "Жданович Анжела Владимировна"
+    url        = "/vrachi/ZHdanovich-Anzhela-Vladimirovna/"
+    weight     = 8
+    parent     = "section.doctors"
 
 
 
@@ -181,7 +238,7 @@ disableKinds = "404"
 [[menu.main]]
 	name       = "Контакты"
     identifier = "menu.contact"
-    url        = "/o-nas/kontakty/"
+    url        = "/o-nas/contacts/"
     weight     = 7
 
 

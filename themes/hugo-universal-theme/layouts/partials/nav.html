@@ -22,9 +22,11 @@
 
             <div class="navbar-collapse collapse" id="navigation">
                 <ul class="nav navbar-nav navbar-right">
+				
                   {{ $current := . }}
 
                   {{ range .Site.Menus.main.ByWeight }}
+				  
                   {{ $topLevel := replace .URL "/" "" }}
                   {{ $active := "" }}
 
@@ -56,14 +58,14 @@
                             <div class="row">
                                 {{ if ne .URL "" }}
                                 <div class="col-sm-6">
-                                    <img src="{{ .URL }}" class="img-responsive hidden-xs"/>
+                                    <img src="{{ .URL }}" class="img-responsive hidden-xs"/>									
                                 </div>
                                 {{ end }}
                                 <div class="col-sm-3">
                                 {{ range .Children.ByWeight }}
                                     {{ $column := printf "%s" .Post }}
                                     {{ if eq $column "1" }}
-                                    <h5><a href="{{ .URL }}">{{ .Name }}</a></h5>
+                                    <h5>{{ if ne .URL "" }}<a href="{{ .URL }}">{{ end }}{{ .Name }}{{ if ne .URL "" }}</a>{{ end }}</h5>
                                     {{ if .HasChildren }}
                                     <ul>
                                     {{ range .Children.ByWeight }}
@@ -78,7 +80,7 @@
                                 {{ range .Children.ByWeight }}
                                     {{ $column := printf "%s" .Post }}
                                     {{ if eq $column "2" }}
-                                    <h5>{{ .Name }}</code></h5>
+                                    <h5>{{ if ne .URL "" }}<a href="{{ .URL }}">{{ end }}{{ .Name }}{{ if ne .URL "" }}</a>{{ end }}</h5>
                                     {{ if .HasChildren }}
                                     <ul>
                                     {{ range .Children.ByWeight }}
@@ -94,7 +96,7 @@
                                 {{ range .Children }}
                                     {{ $column := printf "%s" .Post }}
                                     {{ if eq $column "3" }}
-                                    <h5>{{ .Name }}</code></h5>
+                                    <h5>{{ if ne .URL "" }}<a href="{{ .URL }}">{{ end }}{{ .Name }}{{ if ne .URL "" }}</a>{{ end }}</h5>
                                     {{ if .HasChildren }}
                                     <ul>
                                     {{ range .Children.ByWeight }}
