@@ -2,7 +2,7 @@
 title: Богомолова Ирина Викторовна, врач-эндокринолог
 description: ""
 keywords: ""
-banner: "img/vrachi/Bogomolova-Irina-Viktorovna.jpg"
+banner: "/img/vrachi/Bogomolova-Irina-Viktorovna.jpg"
 ---
 
 # Богомолова Ирина Викторовна

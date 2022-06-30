@@ -3,41 +3,50 @@ title: УЗИ
 description: ""
 keywords: ""
 ---
+# Кабинет ультразвуковой диагностики
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+* Дуплексное сканирование вен нижних конечностей 	2000,00
+* Дуплексное сканирование вен верхних конечностей 	2000,00
+* Дуплексное сканированиеартерий  нижних конечностей 	2000,00
+* Дуплексное сканирование артерий  верхних конечностей 	2000,00
+* УЗИ органов брюшной полости комплексное (печень, желчный пузырь, желчевыводящие 	1500,00
+* УЗИ брюшной полости с оценкой функции желчного пузыря и желудка 	1200,00
+* УЗИ почек, надпочечников, мочеточники и мочевой пузырь с оценкой остаточной мочи 	1300,00
+* УЗИ мочевого пузыря 	700,00
+* УЗИ почек и надпочечников 	1000,00
+* УЗИ щитовидной железы с допплерографией и оценкой региональных лимфатических узл 	1100,00
+* УЗИ мягкие ткани (лимфоузлы 1 зона) 	700,00
+* УЗИ молочных желез 	1000,00
+* УЗИ мошонки с Доплером сосудов 	1300,00
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+## УЗИ органов брюшной полости
+За 2 — 3 дня до обследования рекомендуется исключить из рациона продукты, усиливающие газообразование в кишечнике (сырые овощи, богатые растительной клетчаткой, цельное молоко, черный хлеб, бобовые, газированные напитки, а также высококалорийные кондитерские изделия — пирожные, торты). Целесообразно, в течение этого промежутка времени, принимать ферментные препараты и энтеросорбенты (например, фестал, мезим-форте, активированный уголь или эспумизан по 1 таблетке 3 раза в день), которые помогут уменьшить проявления метеоризма.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+УЗИ органов брюшной полости необходимо проводить натощак, если исследование невозможно провести утром, допускается легкий завтрак. Не рекомендуется курить до исследования. Если Вы принимаете лекарственные средства, предупредите об этом врача
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+## УЗИ
+Нельзя проводить исследование после гастро- и колоноскопии.
 
-## 2. WHAT ARE THE POSTAL RATES?
+## УЗИ органов малого таза
+УЗИ органов малого таза у женщин проводится двумя методами: трансабдоминальным (только у девственниц). Исследование данным
+методом проводится при полном мочевом пузыре, поэтому необходимо не мочиться до исследования в течение 3 — 4 часов и выпить 1 л негазированной жидкости за 1 час до процедуры. Накануне исследования необходима очистительная клизма.
+трансвагинальным (в остальных случаях). Специальной подготовки к исследованию не требуется. Необходимо учитывать, что наполненный мочевой пузырь в данном случае мешает проведению исследования и требует
+опорожнения. Данное исследование используется и для определения беременности на ранних сроках.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## УЗИ ПРЕДСТАТЕЛЬНОЙ ЖЕЛЕЗЫ
+трансабдоминальным. Исследование проводится при полном мочевом пузыре, поэтому необходимо не мочиться до исследования в течение 3 — 4 часов и выпить 1 л негазированной жидкости за 1 час до процедуры.
 
-## 3. DO YOU SEND OVERSEAS?
+## УЗИ мочевого пузыря
+Исследование проводится при полном мочевом пузыре, поэтому необходимо не мочиться до исследования в течение 3 — 4 часов и выпить 1 л негазированной жидкости за 1 час до процедуры.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## УЗИ молочных желез
+Исследование молочных желез желательно проводить в первые 10 дней менструального цикла.
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+## УЗИ щитовидной железы
+Специальной подготовки к исследованию не требуется.
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## УЗИ почек
+Специальной подготовки к исследованию не требуется.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
-## 5. ANOTHER IMPORTANT QUESTION
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
+## УЗИ вен, артерий – нижних и верхних конечностей
+Специальной подготовки к исследованию не требуется.

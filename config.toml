@@ -118,47 +118,55 @@ disableKinds = "404"
     url        = "/vrachi/Bogomolova-Irina-Viktorovna/"
     weight     = 1
     parent     = "section.doctors"
-
 [[menu.main]]
     name       = "Борисова Екатерина Евгеньевна"
     url        = "/vrachi/Borisova-Ekaterina-Evgenevna/"
     weight     = 2
     parent     = "section.doctors"
-
 [[menu.main]]
     name       = "Дорожкина Татьяна Николаевна"
     url        = "/vrachi/Dorozhkina-Tatyana-Nikolaevna/"
     weight     = 3
     parent     = "section.doctors"
-
+[[menu.main]]
+    name       = "Крашенникова Алина Вадимовна"
+    url        = "/vrachi/Krashennikova-Alina-Vadimovna/"
+    weight     = 4
+    parent     = "section.doctors"
+[[menu.main]]
+    name       = "Машукова Марина Валерьевна"
+    url        = "/vrachi/Mashukova-Marina-Valerevna/"
+    weight     = 5
+    parent     = "section.doctors"
+[[menu.main]]
+    name       = "Накостенко Алексей Игоревич"
+    url        = "/vrachi/Nakostenko-Aleksei-Igorevich/"
+    weight     = 6
+    parent     = "section.doctors"
 [[menu.main]]
     name       = "Пудова Евгения Владимировна"
     url        = "/vrachi/Pudova-Evgeniya-Vladimirovna/"
-    weight     = 4
+    weight     = 7
     parent     = "section.doctors"
-
 [[menu.main]]
     name       = "Резвый Григорий Борисович"
     url        = "/vrachi/Rezvii-Grigorii-Borisovich/"
-    weight     = 5
+    weight     = 8
     parent     = "section.doctors"
-
 [[menu.main]]
     name       = "Щекотихин Максим Андреевич"
     url        = "/vrachi/SHekotihin-Maksim-Andreevich/"
-    weight     = 6
+    weight     = 9
     parent     = "section.doctors"
-
 [[menu.main]]
     name       = "Яковлева Наталья Владимировна"
     url        = "/vrachi/YAkovleva-Natalya-Vladimirovna/"
-    weight     = 7
+    weight     = 10
     parent     = "section.doctors"
-
 [[menu.main]]
     name       = "Жданович Анжела Владимировна"
     url        = "/vrachi/ZHdanovich-Anzhela-Vladimirovna/"
-    weight     = 8
+    weight     = 11
     parent     = "section.doctors"
 
 
@@ -261,7 +269,7 @@ disableKinds = "404"
     viewMorePostLink = "/blog/"
     author = "Р-КЛИНИК"
     defaultKeywords = ["р-клиник", "клиника", "анализы", "врачи", "деденево"]
-    mainSections = ["blog"]
+    mainSections = ["vrachi"]
     defaultDescription = "Медицинский центр в поселке Деденево Дмитровского района Московской области"
 
     # Social media
@@ -415,8 +423,8 @@ disableKinds = "404"
 
 [params.recent_posts]
     enable = true
-    title = "From our blog"
-    subtitle = "Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo."
+    title = "Специалисты клиники"
+    subtitle = ""
     hide_summary = false
 
 [params.footer.recent_posts]
