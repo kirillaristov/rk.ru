@@ -2,7 +2,7 @@
 title: Гречневикова Екатерина Арнольдовна, врач–терапевт
 description: ""
 keywords: ""
-banner: "/img/vrachi/Grechnevikova-Ekaterina-Arnoldovna.md.jpg"
+banner: "/img/vrachi/Grechnevikova-Ekaterina-Arnoldovna.jpg"
 ---
 
 # Гречневикова Екатерина Арнольдовна
