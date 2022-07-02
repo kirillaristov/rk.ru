@@ -23,6 +23,9 @@ pluralizelisttitles = false
 
 disableKinds = "404"
 
+[markup.goldmark.renderer]
+  unsafe = true # Allow HTML in md files
+
 [menu]
 
 
