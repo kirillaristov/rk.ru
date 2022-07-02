@@ -72,34 +72,34 @@ disableKinds = "404"
 [[menu.main]]
     name       = "Специалисты"
     identifier = "section.specialisty"
-    url        = "/vrachi/"
+    url        = "/specialisty/"
     weight     = 1
     parent     = "menu.vrachi"
     post       = 1
 
 [[menu.main]]
     name       = "Педиатр"
-    url        = "/vrachi/pediatr/"
+    url        = "/specialisty/pediatr/"
     weight     = 1
     parent     = "section.specialisty"
 [[menu.main]]
     name       = "Кардиолог"
-    url        = "/vrachi/kardiolog/"
+    url        = "/specialisty/kardiolog/"
     weight     = 2
     parent     = "section.specialisty"
 [[menu.main]]
     name       = "ЛОР"
-    url        = "/vrachi/lor/"
+    url        = "/specialisty/lor/"
     weight     = 3
     parent     = "section.specialisty"
 [[menu.main]]
     name       = "Гинеколог"
-    url        = "/vrachi/ginekolog/"
+    url        = "/specialisty/ginekolog/"
     weight     = 4
     parent     = "section.specialisty"
 [[menu.main]]
     name       = "Эндокринолог"
-    url        = "/vrachi/endokrinolog/"
+    url        = "/specialisty/endokrinolog/"
     weight     = 5
     parent     = "section.specialisty"
 
