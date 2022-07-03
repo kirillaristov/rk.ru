@@ -7,6 +7,7 @@ banner: "/img/vrachi/Bogomolova-Irina-Viktorovna.jpg"
 
 # Богомолова Ирина Викторовна
 ## врач-эндокринолог, стаж работы 22 года
+<!--more-->
 
 # Образование
 

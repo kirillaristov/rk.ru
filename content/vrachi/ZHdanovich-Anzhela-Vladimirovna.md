@@ -7,6 +7,7 @@ banner: "/img/vrachi/ZHdanovich-Anzhela-Vladimirovna.jpg"
 
 # Жданович Анжела Владимировна
 ## врач-педиатр, стаж работы 30 лет
+<!--more-->
 
 ## Образование
 

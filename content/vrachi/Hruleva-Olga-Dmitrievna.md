@@ -7,6 +7,7 @@ banner: "/img/vrachi/Hruleva-Olga-Dmitrievna.jpg"
 
 # Хрулёва Ольга Дмитриевна
 ## Врач-невролог, стаж работы 24 года
+<!--more-->
 
 ## Образование
 

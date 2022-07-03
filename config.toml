@@ -12,8 +12,9 @@ disqusShortname = "devcows"
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
-# number of words of summarized post content (default 70)
+# number of words of summarized post content (default 70) //не работает, использовано ручное <!--more-->
 summaryLength = 70
+
 
 # Define the number of posts per page
 paginate = 10
@@ -24,11 +25,21 @@ pluralizelisttitles = false
 disableKinds = "404"
 
 [markup.goldmark.renderer]
-  unsafe = true # Allow HTML in md files
+#  unsafe = true # Allow HTML in md files
+
+[params.recent_posts]
+    enable = true
+    title = "Специалисты клиники"
+    subtitle = ""
+    hide_summary = false
+	recentPostAmount = 10
+
+
+
+
+
 
 [menu]
-
-
 # ==== ВИЗИТ ====
 [[menu.main]]
     name       = "Визит"
@@ -419,11 +430,6 @@ disableKinds = "404"
     title = "Our Clients"
     subtitle = ""
 
-[params.recent_posts]
-    enable = true
-    title = "Специалисты клиники"
-    subtitle = ""
-    hide_summary = false
 
 [params.footer.recent_posts]
     enable = false

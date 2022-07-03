@@ -7,6 +7,7 @@ banner: "/img/vrachi/Grechnevikova-Ekaterina-Arnoldovna.jpg"
 
 # Гречневикова Екатерина Арнольдовна
 ## врач–терапевт, стаж работы 12 лет
+<!--more-->
 
 ## Образование
 

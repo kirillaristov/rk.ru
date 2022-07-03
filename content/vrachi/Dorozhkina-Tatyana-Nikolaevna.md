@@ -7,6 +7,7 @@ banner: "/img/vrachi/Dorozhkina-Tatyana-Nikolaevna.jpg"
 
 # Дорожкина Татьяна Николаевна
 ## врач-кардиолог, стаж работы 14 лет
+<!--more-->
 
 ## Образование
 

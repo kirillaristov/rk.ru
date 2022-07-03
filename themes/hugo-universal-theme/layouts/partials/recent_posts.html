@@ -16,13 +16,13 @@
 
             <div class="row">
                 {{ $posts := .Paginate (where site.RegularPages "Type" "in" site.Params.mainSections) }}
-                {{ range first 15 $posts.Pages }}
-                <div class="col-md-3 col-sm-6">
+                {{ range first .Site.Params.recent_posts.recentPostAmount $posts.Pages }}
+                <div class="col-md-3 col-sm-6" style="min-height:700px;">
                     <div class="box-image-text blog">
                         <div class="top">
                             <div class="image" style="overflow:hidden">
                                 {{ if isset .Params "banner" }}
-                                <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="" >
+                                <img src="{{ .Params.banner | relURL }}" class="img-responsive" alt="">
                                 {{ else }}
                                 <img src="{{ "img/placeholder.png" | relURL }}" class="img-responsive" alt="">
                                 {{ end }}
@@ -50,7 +50,7 @@
                             {{ end }}
                             </p>
                             {{ if not .Site.Params.recent_posts.hide_summary }}
-                            <p class="intro">{{ .Summary }}</p>
+                            <p class="intro">{{ .Summary | plainify }}</p>
                             <p class="read-more">
                               <a href="{{ .Permalink }}" class="btn btn-template-main">{{ i18n "continueReading" }}</a>
                             </p>

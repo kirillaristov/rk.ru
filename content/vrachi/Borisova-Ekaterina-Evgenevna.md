@@ -7,6 +7,7 @@ banner: "/img/vrachi/Borisova-Ekaterina-Evgenevna.jpg"
 
 # Борисова Екатерина Евгеньевна
 ## врач-кардиолог, стаж работы 22 года
+<!--more-->
 
 ## Образование
 

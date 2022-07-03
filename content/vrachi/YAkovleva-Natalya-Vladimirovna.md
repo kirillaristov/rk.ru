@@ -7,6 +7,7 @@ banner: "/img/vrachi/YAkovleva-Natalya-Vladimirovna.jpg"
 
 # Яковлева Наталья Владимировна
 ## врач ультразвуковой диагностики
+<!--more-->
 
 ## Образование
 

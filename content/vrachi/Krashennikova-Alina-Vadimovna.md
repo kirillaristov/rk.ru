@@ -7,6 +7,7 @@ banner: "/img/vrachi/Krashennikova-Alina-Vadimovna.jpg"
 
 # Крашенникова Алина Вадимовна
 ## Врач-гинеколог, стаж работы 10 лет
+<!--more-->
 
 ## Образование
 
