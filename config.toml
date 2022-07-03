@@ -8,11 +8,11 @@ languageCode = "ru-ru"
 # Site language. Available translations in the theme's `/i18n` directory.
 defaultContentLanguage = "ru"
 # Enable comments by entering your Disqus shortname
-disqusShortname = "devcows"
+disqusShortname = ""
 # Enable Google Analytics by entering your tracking code
 googleAnalytics = ""
 
-# number of words of summarized post content (default 70) //не работает, использовано ручное <!--more-->
+# number of words of summarized post content (default 70) //не работает, использовано ручное <!--more--> и | plainify
 summaryLength = 70
 
 
