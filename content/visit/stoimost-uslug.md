@@ -6,26 +6,26 @@ keywords: ""
 
 ## Врачи-специалисты
 
-|     				    | Наименование												    | 					           | Стоимость |
-|-----------------------|---------------------------------------------------------------|------------------------------|-----------|
-| 1.&nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;Первичный прием врача-педиатра				|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
-| 2.&nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;Повторный* прием врача-педиатра				|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 800 ₽     |
-| 3.&nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;Первичный прием врача-гинеколога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
-| 4.&nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;Повторный* прием врача-гинеколога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1100 ₽    |
-| 5.&nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;Первичный прием врача-кардиолога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1800 ₽    |
-| 6.&nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;Повторный* прием врача-кардиолога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1200 ₽    |
-| 7.&nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;Первичный прием врача-эндокринолога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1600 ₽    |
-| 8.&nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;Повторный* прием врача-эндокринолога		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1200 ₽    |
-| 9.&nbsp;&nbsp;&nbsp;  | &nbsp;&nbsp;&nbsp;Первичный прием врача-отоларинголога		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1400 ₽    |
-| 10.&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Повторный* прием врача-отоларинголога		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
-| 11.&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Первичный прием врача-невролога				|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1700 ₽    |
-| 12.&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Повторный* прием врача-невролога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1200 ₽    |
-| 13.&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Первичный прием врача-уролога детского		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
-| 14.&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Повторный* прием врача-уролога детского		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
-| 15.&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Первичный прием врача-ортопеда детского		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
-| 16.&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Повторный* прием врача-ортопеда детского	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
-| 17.&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Первичный прием врача-терапевта				|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
-| 18.&nbsp;&nbsp;&nbsp; | &nbsp;&nbsp;&nbsp;Повторный* прием врача-терапевта			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
+|     				    | Наименование							    | 					           | Стоимость |
+|-----------------------|-------------------------------------------|------------------------------|-----------|
+| 1.&nbsp;&nbsp;&nbsp;  | Первичный прием врача-педиатра			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
+| 2.&nbsp;&nbsp;&nbsp;  | Повторный* прием врача-педиатра			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 800 ₽     |
+| 3.&nbsp;&nbsp;&nbsp;  | Первичный прием врача-гинеколога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
+| 4.&nbsp;&nbsp;&nbsp;  | Повторный* прием врача-гинеколога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1100 ₽    |
+| 5.&nbsp;&nbsp;&nbsp;  | Первичный прием врача-кардиолога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1800 ₽    |
+| 6.&nbsp;&nbsp;&nbsp;  | Повторный* прием врача-кардиолога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1200 ₽    |
+| 7.&nbsp;&nbsp;&nbsp;  | Первичный прием врача-эндокринолога		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1600 ₽    |
+| 8.&nbsp;&nbsp;&nbsp;  | Повторный* прием врача-эндокринолога		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1200 ₽    |
+| 9.&nbsp;&nbsp;&nbsp;  | Первичный прием врача-отоларинголога		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1400 ₽    |
+| 10.&nbsp;&nbsp;&nbsp; | Повторный* прием врача-отоларинголога		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
+| 11.&nbsp;&nbsp;&nbsp; | Первичный прием врача-невролога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1700 ₽    |
+| 12.&nbsp;&nbsp;&nbsp; | Повторный* прием врача-невролога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1200 ₽    |
+| 13.&nbsp;&nbsp;&nbsp; | Первичный прием врача-уролога детского	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
+| 14.&nbsp;&nbsp;&nbsp; | Повторный* прием врача-уролога детского	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
+| 15.&nbsp;&nbsp;&nbsp; | Первичный прием врача-ортопеда детского	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
+| 16.&nbsp;&nbsp;&nbsp; | Повторный* прием врача-ортопеда детского	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
+| 17.&nbsp;&nbsp;&nbsp; | Первичный прием врача-терапевта			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
+| 18.&nbsp;&nbsp;&nbsp; | Повторный* прием врача-терапевта			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
 
 
 &nbsp;<br>
