@@ -4,40 +4,71 @@ description: ""
 keywords: ""
 ---
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+## Врачи-специалисты
 
-## 1. WHAT TO DO IF I HAVE STILL NOT RECEIVED THE ORDER?
+|     | Наименование												| 					           | Стоимость |
+|-----|-------------------------------------------------------------|------------------------------|-----------|
+| 1.  | &nbsp;&nbsp;&nbsp;Первичный прием врача педиатра			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
+| 2.  | &nbsp;&nbsp;&nbsp;Повторный* прием врача педиатра			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 800 ₽     |
+| 3.  | &nbsp;&nbsp;&nbsp;Первичный прием врача гинеколога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
+| 4.  | &nbsp;&nbsp;&nbsp;Повторный* прием врача гинеколога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1100 ₽    |
+| 5.  | &nbsp;&nbsp;&nbsp;Первичный прием врача кардиолога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1800 ₽    |
+| 6.  | &nbsp;&nbsp;&nbsp;Повторный* прием врача кардиолога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1200 ₽    |
+| 7.  | &nbsp;&nbsp;&nbsp;Первичный прием врача эндокринолога		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1600 ₽    |
+| 8.  | &nbsp;&nbsp;&nbsp;Повторный* прием врача эндокринолога		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1200 ₽    |
+| 9.  | &nbsp;&nbsp;&nbsp;Первичный прием врача отоларинголога		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1400 ₽    |
+| 10. | &nbsp;&nbsp;&nbsp;Повторный* прием врача отоларинголога		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
+| 11. | &nbsp;&nbsp;&nbsp;Первичный прием врача невролога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1700 ₽    |
+| 12. | &nbsp;&nbsp;&nbsp;Повторный* прием врача невролога			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1200 ₽    |
+| 13. | &nbsp;&nbsp;&nbsp;Первичный прием врача уролога детского	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
+| 14. | &nbsp;&nbsp;&nbsp;Повторный* прием врача уролога детского	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
+| 15. | &nbsp;&nbsp;&nbsp;Первичный прием врача ортопеда детского	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
+| 16. | &nbsp;&nbsp;&nbsp;Повторный* прием врача ортопеда детского	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
+| 17. | &nbsp;&nbsp;&nbsp;Первичный прием врача терапевта			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
+| 18. | &nbsp;&nbsp;&nbsp;Повторный* прием врача терапевта			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
+&nbsp;<br>
+&nbsp;<br>
 
-## 2. WHAT ARE THE POSTAL RATES?
+* Повторный прием — в течение месяца после первого.
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
+## УЗИ
 
-## 3. DO YOU SEND OVERSEAS?
+|     | Наименование																			   				| 						 	   | Стоимость |
+|-----|---------------------------------------------------------------------------------------------------------|------------------------------|-----------|
+| 1.  | &nbsp;&nbsp;&nbsp; УЗИ органов брюшной полости комплексное  											|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1600 ₽    |
+| 2.  | &nbsp;&nbsp;&nbsp; УЗИ органов брюшной полости комплексное + почки 										|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 2100 ₽    |
+| 3.  | &nbsp;&nbsp;&nbsp; УЗИ органов брюшной полости комплексное(дети)										|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1300 ₽    |
+| 4.  | &nbsp;&nbsp;&nbsp; УЗИ органов брюшной полости комплексное + почки(дети)								|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1800 ₽    |
+| 5.  | &nbsp;&nbsp;&nbsp; УЗИ почек, надпочечников, мочеточники и мочевой пузырь с оценкой остаточной мочи		|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1400 ₽    |
+| 6.  | &nbsp;&nbsp;&nbsp; УЗИ почек и надпочечников															|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1100 ₽    |
+| 7.  | &nbsp;&nbsp;&nbsp; УЗИ мочевого пузыря																	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 800  ₽    |
+| 8.  | &nbsp;&nbsp;&nbsp; УЗИ желчного пузыря																	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 800  ₽    |
+| 9.  | &nbsp;&nbsp;&nbsp; УЗИ поджелудочной железы																|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 800  ₽    |
+| 10. | &nbsp;&nbsp;&nbsp; УЗИ печени																			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 800  ₽    |
+| 11. | &nbsp;&nbsp;&nbsp; УЗИ тазобедренных суставов															|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1100 ₽    |
+| 12. | &nbsp;&nbsp;&nbsp; УЗИ нейросонография (НСГ-исследование головного мозга)								|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1600 ₽    |
+| 13. | &nbsp;&nbsp;&nbsp; УЗИ щитовидной железы с допплерографией и оценкой региональных лимфатических узлов	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1300 ₽    |
+| 14. | &nbsp;&nbsp;&nbsp; УЗИ тимус с расчетами																|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1200 ₽    |
+| 15. | &nbsp;&nbsp;&nbsp; УЗИ мягкие ткани (лимфоузлы 1 зона)													|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1000 ₽    |
+| 16. | &nbsp;&nbsp;&nbsp; УЗИ молочных желез																	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1300 ₽    |
+| 17. | &nbsp;&nbsp;&nbsp; УЗИ мошонки с Доплером сосудов														|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1300 ₽    |
+| 18. | &nbsp;&nbsp;&nbsp; УЗИ предстательной железы и мочевого пузыря											|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1300 ₽    |
+| 19. | &nbsp;&nbsp;&nbsp; УЗИ органов малого таза																|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 1500 ₽    |
+| 20. | &nbsp;&nbsp;&nbsp; Дуплексное сканирование вен нижних конечностей										|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 2500 ₽    |
+| 21. | &nbsp;&nbsp;&nbsp; Дуплексное сканирование вен верхних конечностей										|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 2500 ₽    |
+| 22. | &nbsp;&nbsp;&nbsp; Дуплексное сканирование брахиоцефальных артерий										|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 2500 ₽    |
+| 23. | &nbsp;&nbsp;&nbsp; Кольпоскопия																			|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 2000 ₽    |
+| 24. | &nbsp;&nbsp;&nbsp; Холтер																				|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 2000 ₽    |
+| 25. | &nbsp;&nbsp;&nbsp; СМАД																					|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 2000 ₽    |
+| 26. | &nbsp;&nbsp;&nbsp; ЭКГ с расшифровкой																	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 850  ₽    |
+| 27. | &nbsp;&nbsp;&nbsp; ЭКГ без расшифровки																	|&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;| 500  ₽    |
 
-Anim pariatur cliche reprehenderit, enim eiusmod high life accusamus terry richardson ad squid. 3 wolf moon officia aute, non cupidatat skateboard dolor brunch. Food truck quinoa nesciunt laborum eiusmod. Brunch 3 wolf moon tempor, sunt aliqua put a bird on it squid single-origin coffee nulla assumenda shoreditch et. Nihil anim keffiyeh helvetica, craft beer labore wes anderson cred nesciunt sapiente ea proident. Ad vegan excepteur butcher vice lomo. Leggings occaecat craft beer farm-to-table, raw denim aesthetic synth nesciunt you probably haven't heard of them accusamus labore sustainable VHS.
 
-## 4. WHY ARE YOU MORE EXPENSIVE THAN OTHERS?
+&nbsp;<br>
+&nbsp;<br>
 
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
+* Дата обновления стоимости услуг — июль 2022 года.
 
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
 
-## 5. ANOTHER IMPORTANT QUESTION
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo.
-
-* Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-* Aliquam tincidunt mauris eu risus.
-* Vestibulum auctor dapibus neque.
-
----
-
-> In case you haven't found the answer for your question please feel free to contact us, our customer support will be happy to help you.
