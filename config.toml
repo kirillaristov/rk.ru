@@ -232,7 +232,7 @@ disableKinds = "404"
 
 [[menu.main]]
     name       = "Контакты"
-    url        = "/o-nas/kontakty/"
+    url        = "/o-nas/contacts/"
     weight     = 1
     parent     = "section.about"
 [[menu.main]]
@@ -353,17 +353,13 @@ disableKinds = "404"
 
     logo = "img/logo.png"
     logo_small = "img/logo-small.png"
-    contact_url = "/kontakty/"
+    contact_url = "/o-nas/contacts/"
     address = """<p class="text-uppercase"><strong>Медицинский центр «Р-Клиник».</strong>
         <br>Московское шоссе, д. 13, стр. 2,
 		<br>Пос. Деденево, Дмитровский район,
         <br>Московская область, 141850, <strong>Россия</strong>.
 		<br><br>
-		<a href="tel:+74962223757" data-animate-hover="pulse">
-		<i class="fas fa-phone">
-			+7 496 222-37-57
-		</i>
-		</a>
+		<a href="tel:+74962223757" data-animate-hover="pulse"><i class="fas fa-phone"></i> +7 496 222-37-57</a>
       </p>
       """
 

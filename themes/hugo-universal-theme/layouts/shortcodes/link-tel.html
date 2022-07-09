@@ -1,0 +1,4 @@
+{{ $src := .Get 0 }}
+{{ $text := .Get 1 -}}
+
+<a class="link-tel" href="{{ $src | safeURL }}"><i class="fas fa-phone"></i> {{ $text }}</a>
