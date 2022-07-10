@@ -1,5 +1,5 @@
 ---
-title: Машукова Марина Валерьевна
+title: Машукова Марина Валерьевна, врач-гинеколог
 description: ""
 keywords: ""
 banner: "/img/vrachi/Mashukova-Marina-Valerevna.jpg"
