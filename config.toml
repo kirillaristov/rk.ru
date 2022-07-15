@@ -71,12 +71,12 @@ disableKinds = "404"
 [[menu.main]]
     name       = "Стоимость услуг"
     url        = "/visit/stoimost-uslug/"
-    weight     = 3
+    weight     = 2
     parent     = "section.home"
 [[menu.main]]
     name       = "Способы оплаты"
     url        = "/visit/sposoby-oplaty/"
-    weight     = 4
+    weight     = 3
     parent     = "section.home"
 
 
