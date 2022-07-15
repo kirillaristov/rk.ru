@@ -69,11 +69,6 @@ disableKinds = "404"
     weight     = 1
     parent     = "section.home"
 [[menu.main]]
-    name       = "Подготовка к визиту"
-    url        = "/visit/podgotovka-k-vizitu/"
-    weight     = 2
-    parent     = "section.home"
-[[menu.main]]
     name       = "Стоимость услуг"
     url        = "/visit/stoimost-uslug/"
     weight     = 3
